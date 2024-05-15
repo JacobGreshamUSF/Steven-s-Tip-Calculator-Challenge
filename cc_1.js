@@ -1,7 +1,4 @@
-git add README.md 
-# Tip Calculator
-
-This is a simple tip calculator project for calculating tips based on bill amounts.
+U59555732
 
 // Initial logic for calculating tip using ternary operator
 const calcTip = (bill) => {
